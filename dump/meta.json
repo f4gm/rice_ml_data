@@ -1,0 +1,90 @@
+{
+  "2": {
+    "1": {
+      "vis": ["NNIR", "REDVI", "MRESAVI", "RERVI", "CI_RE", "VIopt1", "REWDRVI", "NDRE", "MSR_RE", "RESAVI"],
+      "pca": "/pca/plot_2_day_index_1_pca.joblib",
+      "scaler": "/scaler/plot_2_day_index_1_scaler.joblib",
+      "model": "/model/plot_2_day_index_1_network.keras"
+    },
+    "2": {
+      "vis": ["MRETVI", "MCARI2", "NDVI", "MDD", "NNIR", "WDRVI", "VIopt1", "MSR_RE", "NDRE", "GNDVI"],
+      "pca": "/pca/plot_2_day_index_2_pca.joblib",
+      "scaler": "/scaler/plot_2_day_index_2_scaler.joblib",
+      "model": "/model/plot_2_day_index_2_network.keras"
+    },
+    "3": {
+      "vis": ["NREI", "MCCCI", "MNDI", "MTCI", "NDVI", "WDRVI", "MRETVI", "MCARI2", "CI_RE", "RERVI"],
+      "pca": "/pca/plot_2_day_index_3_pca.joblib",
+      "scaler": "/scaler/plot_2_day_index_3_scaler.joblib",
+      "model": "/model/plot_2_day_index_3_network.keras"
+    },
+    "4": {
+      "vis": ["NDRE/GOSAVI", "MTCI", "MSR_RE", "RERVI", "REWDRVI", "NDRE", "CI_RE", "VIopt1", "MNDI", "MCCCI"],
+      "pca": "/pca/plot_2_day_index_4_pca.joblib",
+      "scaler": "/scaler/plot_2_day_index_4_scaler.joblib",
+      "model": "/model/plot_2_day_index_4_network.keras"
+    },
+    "5": {
+      "vis": ["MRETVI", "MCCCI", "MCARI2/GOSAVI", "MTCI", "MDD", "MNDI", "MCARI2", "NREI", "MCARI1/GOSAVI", "MEVI"],
+      "pca": "/pca/plot_2_day_index_5_pca.joblib",
+      "scaler": "/scaler/plot_2_day_index_5_scaler.joblib",
+      "model": "/model/plot_2_day_index_5_network.keras"
+    },
+    "6": {
+      "vis": ["MSR_RE", "RERVI", "CI_RE", "VIopt1", "REWDRVI", "NDRE", "MTCI", "MCARI1/MRETVI", "MTCARI/MRETVI", "REOSAVI"],
+      "pca": "/pca/plot_2_day_index_6_pca.joblib",
+      "scaler": "/scaler/plot_2_day_index_6_scaler.joblib",
+      "model": "/model/plot_2_day_index_6_network.keras"
+    },
+    "7": {
+      "vis": ["MTCI", "MCARI2", "MDD", "MRETVI", "NREI", "MCARI2/GOSAVI", "MCCCI", "WDRVI", "NDVI", "RETVI"],
+      "pca": "/pca/plot_2_day_index_7_pca.joblib",
+      "scaler": "/scaler/plot_2_day_index_7_scaler.joblib",
+      "model": "/model/plot_2_day_index_7_network.keras"
+    }
+  },
+  "4": {
+    "1": {
+      "vis": ["MTCARI/MRETVI", "MCARI1/MRETVI", "MRETVI", "REGDVI", "MCARI2", "GDVI", "REGRVI", "SAVI", "EVI2", "MDD"],
+      "pca": "/pca/plot_4_day_index_1_pca.joblib",
+      "scaler": "/scaler/plot_4_day_index_1_scaler.joblib",
+      "model": "/model/plot_4_day_index_1_network.keras"
+    },
+    "2": {
+      "vis": ["MTCARI/MRETVI", "MCARI1/MRETVI", "MCARI2", "MRETVI", "NREI", "MDD", "MTCI", "RETVI", "MTCARI", "MEVI"],
+      "pca": "/pca/plot_4_day_index_2_pca.joblib",
+      "scaler": "/scaler/plot_4_day_index_2_scaler.joblib",
+      "model": "/model/plot_4_day_index_2_network.keras"
+    },
+    "3": {
+      "vis": ["NDRE/GOSAVI", "REGRVI", "REGNDVI", "GRVI", "CI_G", "MSR_G", "NDVI", "NGI", "WDRVI", "GNDVI"],
+      "pca": "/pca/plot_4_day_index_3_pca.joblib",
+      "scaler": "/scaler/plot_4_day_index_3_scaler.joblib",
+      "model": "/model/plot_4_day_index_3_network.keras"
+    },
+    "4": {
+      "vis": ["NDRE/GOSAVI", "MCARI2/GOSAVI", "NREI", "MCCCI", "NDRE", "MNDI", "MSR_RE", "REWDRVI", "RERVI", "CI_RE"],
+      "pca": "/pca/plot_4_day_index_4_pca.joblib",
+      "scaler": "/scaler/plot_4_day_index_4_scaler.joblib",
+      "model": "/model/plot_4_day_index_4_network.keras"
+    },
+    "5": {
+      "vis": ["MTCI", "NREI", "RETVI", "MCARI1/GOSAVI", "MDD", "MCARI2", "REOSAVI", "MCARI2/GOSAVI", "MEVI", "CI_RE"],
+      "pca": "/pca/plot_4_day_index_5_pca.joblib",
+      "scaler": "/scaler/plot_4_day_index_5_scaler.joblib",
+      "model": "/model/plot_4_day_index_5_network.keras"
+    },
+    "6": {
+      "vis": ["EVI2", "SAVI", "REDVI", "GDVI", "MTCARI", "MTCARI/GOSAVI", "RESAVI", "MCARI1/GOSAVI", "MRESAVI", "MEVI"],
+      "pca": "/pca/plot_4_day_index_6_pca.joblib",
+      "scaler": "/scaler/plot_4_day_index_6_scaler.joblib",
+      "model": "/model/plot_4_day_index_6_network.keras"
+    },
+    "7": {
+      "vis": ["MGSAVI", "GSAVI", "GOSAVI", "GDVI", "MNDRE", "GRDVI", "REGDVI", "EVI2", "SAVI", "REGNDVI"],
+      "pca": "/pca/plot_4_day_index_7_pca.joblib",
+      "scaler": "/scaler/plot_4_day_index_7_scaler.joblib",
+      "model": "/model/plot_4_day_index_7_network.keras"
+    }
+  }
+}
