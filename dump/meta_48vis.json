@@ -51,10 +51,10 @@
         "MCARI1/MRETVI",
         "MTCARI/MRETVI"
       ],
-      "pca": "/pca/plot_2_dayindex_1_vis_48_pca_3_pca.joblib",
-      "scaler": "/scaler/plot_2_dayindex_1_vis_48_pca_3_scaler.joblib",
-      "prescaler": "/prescaler/plot_2_dayindex_1_vis_48_pca_3_prescaler.joblib",
-      "model": "/model/plot_2_dayindex_1_vis_48_pca_3_network.keras"
+      "pca": "/pca/plot_2_dayindex_1_pca_3_48vis_pca.joblib",
+      "scaler": "/scaler/plot_2_dayindex_1_pca_3_48vis_scaler.joblib",
+      "prescaler": "/prescaler/plot_2_dayindex_1_pca_3_48vis_prescaler.joblib",
+      "model": "/model/plot_2_dayindex_1_pca_3_48vis_network.keras"
     },
     "2": {
       "vis": [
@@ -107,10 +107,10 @@
         "MCARI1/MRETVI",
         "MTCARI/MRETVI"
       ],
-      "pca": "/pca/plot_2_dayindex_2_vis_48_pca_3_pca.joblib",
-      "scaler": "/scaler/plot_2_dayindex_2_vis_48_pca_3_scaler.joblib",
-      "prescaler": "/prescaler/plot_2_dayindex_2_vis_48_pca_3_prescaler.joblib",
-      "model": "/model/plot_2_dayindex_2_vis_48_pca_3_network.keras"
+      "pca": "/pca/plot_2_dayindex_2_pca_3_48vis_pca.joblib",
+      "scaler": "/scaler/plot_2_dayindex_2_pca_3_48vis_scaler.joblib",
+      "prescaler": "/prescaler/plot_2_dayindex_2_pca_3_48vis_prescaler.joblib",
+      "model": "/model/plot_2_dayindex_2_pca_3_48vis_network.keras"
     },
     "3": {
       "vis": [
@@ -163,10 +163,10 @@
         "MCARI1/MRETVI",
         "MTCARI/MRETVI"
       ],
-      "pca": "/pca/plot_2_dayindex_3_vis_48_pca_3_pca.joblib",
-      "scaler": "/scaler/plot_2_dayindex_3_vis_48_pca_3_scaler.joblib",
-      "prescaler": "/prescaler/plot_2_dayindex_3_vis_48_pca_3_prescaler.joblib",
-      "model": "/model/plot_2_dayindex_3_vis_48_pca_3_network.keras"
+      "pca": "/pca/plot_2_dayindex_3_pca_3_48vis_pca.joblib",
+      "scaler": "/scaler/plot_2_dayindex_3_pca_3_48vis_scaler.joblib",
+      "prescaler": "/prescaler/plot_2_dayindex_3_pca_3_48vis_prescaler.joblib",
+      "model": "/model/plot_2_dayindex_3_pca_3_48vis_network.keras"
     },
     "4": {
       "vis": [
@@ -219,10 +219,10 @@
         "MCARI1/MRETVI",
         "MTCARI/MRETVI"
       ],
-      "pca": "/pca/plot_2_dayindex_4_vis_48_pca_3_pca.joblib",
-      "scaler": "/scaler/plot_2_dayindex_4_vis_48_pca_3_scaler.joblib",
-      "prescaler": "/prescaler/plot_2_dayindex_4_vis_48_pca_3_prescaler.joblib",
-      "model": "/model/plot_2_dayindex_4_vis_48_pca_3_network.keras"
+      "pca": "/pca/plot_2_dayindex_4_pca_3_48vis_pca.joblib",
+      "scaler": "/scaler/plot_2_dayindex_4_pca_3_48vis_scaler.joblib",
+      "prescaler": "/prescaler/plot_2_dayindex_4_pca_3_48vis_prescaler.joblib",
+      "model": "/model/plot_2_dayindex_4_pca_3_48vis_network.keras"
     },
     "5": {
       "vis": [
@@ -275,10 +275,10 @@
         "MCARI1/MRETVI",
         "MTCARI/MRETVI"
       ],
-      "pca": "/pca/plot_2_dayindex_5_vis_48_pca_3_pca.joblib",
-      "scaler": "/scaler/plot_2_dayindex_5_vis_48_pca_3_scaler.joblib",
-      "prescaler": "/prescaler/plot_2_dayindex_5_vis_48_pca_3_prescaler.joblib",
-      "model": "/model/plot_2_dayindex_5_vis_48_pca_3_network.keras"
+      "pca": "/pca/plot_2_dayindex_5_pca_3_48vis_pca.joblib",
+      "scaler": "/scaler/plot_2_dayindex_5_pca_3_48vis_scaler.joblib",
+      "prescaler": "/prescaler/plot_2_dayindex_5_pca_3_48vis_prescaler.joblib",
+      "model": "/model/plot_2_dayindex_5_pca_3_48vis_network.keras"
     },
     "6": {
       "vis": [
@@ -331,10 +331,10 @@
         "MCARI1/MRETVI",
         "MTCARI/MRETVI"
       ],
-      "pca": "/pca/plot_2_dayindex_6_vis_48_pca_4_pca.joblib",
-      "scaler": "/scaler/plot_2_dayindex_6_vis_48_pca_4_scaler.joblib",
-      "prescaler": "/prescaler/plot_2_dayindex_6_vis_48_pca_4_prescaler.joblib",
-      "model": "/model/plot_2_dayindex_6_vis_48_pca_4_network.keras"
+      "pca": "/pca/plot_2_dayindex_6_pca_4_48vis_pca.joblib",
+      "scaler": "/scaler/plot_2_dayindex_6_pca_4_48vis_scaler.joblib",
+      "prescaler": "/prescaler/plot_2_dayindex_6_pca_4_48vis_prescaler.joblib",
+      "model": "/model/plot_2_dayindex_6_pca_4_48vis_network.keras"
     },
     "7": {
       "vis": [
@@ -387,10 +387,10 @@
         "MCARI1/MRETVI",
         "MTCARI/MRETVI"
       ],
-      "pca": "/pca/plot_2_dayindex_7_vis_48_pca_4_pca.joblib",
-      "scaler": "/scaler/plot_2_dayindex_7_vis_48_pca_4_scaler.joblib",
-      "prescaler": "/prescaler/plot_2_dayindex_7_vis_48_pca_4_prescaler.joblib",
-      "model": "/model/plot_2_dayindex_7_vis_48_pca_4_network.keras"
+      "pca": "/pca/plot_2_dayindex_7_pca_4_48vis_pca.joblib",
+      "scaler": "/scaler/plot_2_dayindex_7_pca_4_48vis_scaler.joblib",
+      "prescaler": "/prescaler/plot_2_dayindex_7_pca_4_48vis_prescaler.joblib",
+      "model": "/model/plot_2_dayindex_7_pca_4_48vis_network.keras"
     }
   }
 }
